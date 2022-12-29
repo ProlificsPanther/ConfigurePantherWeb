@@ -1,16 +1,22 @@
-# ConfigurePantherWeb
+# PantherWebServlet
 
-There are two branches in this repository named as following:-
+We can configure Panther Web Servlet in two ways:
+1. Without Eclipse
+2. With   Eclipse - if there is a need to update  Panther Java files
 
- 1) How to configure Panther Servlet/TomCat without Eclipse on Windows
- 
- 2) How to configure Panther Servlet/TomCat with Eclipse on Windows
+# 1. Without Eclipse
+It consist of an instruction file (PDF) which will assist you configure your Apache Tomcat without Eclipse on Windows for Panther Web.
+* NoEclipse.pdf
 
-How to reach different branches, click on Branches on the above table head which will be present on the left.
+# 2. With Eclipse
+It consist of an instruction file (PDF) which will assist  you configure your Apache Tomcat with Eclipse on Windows for Panther Web as well as an web.xml file.
+* UsingEclipse.pdf
+* Web.xml
 
 
-![](PantherWeb.PNG)
+Need the latest Panther Web 5.*. Please contact support@prolifics.com 
 
-Need a Panther Web 552 Redhat Image? [Click Here](https://hub.docker.com/r/prolificspanther/pantherweb "Named link title") 
+Video tutorial : https://www.youtube.com/playlist?list=PLqs5lOxsEMieGw8XfyipFthG9ny_Z-l5t 
 
-Read our Documentation [here](https://docs.prolifics.com)
+Read our Documentation [here](https://https://docs.prolifics.com/panther/html/web_html/index.htm)
+
