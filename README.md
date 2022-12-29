@@ -18,5 +18,5 @@ Need the latest Panther Web 5.*. Please contact support@prolifics.com
 
 Video tutorial : https://www.youtube.com/playlist?list=PLqs5lOxsEMieGw8XfyipFthG9ny_Z-l5t 
 
-Read our Documentation [here](https://https://docs.prolifics.com/panther/html/web_html/index.htm)
+Read our Documentation [here](https://docs.prolifics.com/panther/html/web_html/index.htm)
 
